@@ -15,7 +15,7 @@
     • Introduce User-Friendly Interface
     • New user-friendly interface
     • Decrease Operational Cost
-  
+    
   </ul>
 
 Implementing  [Cloud-Native](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/definition) and [Microservice](https://learn.microsoft.com/en-us/azure/architecture/microservices/) 
@@ -57,9 +57,9 @@ architectures and principles we can achieve these objectives as well as many oth
 
 <ul>
 
-• Create a new solution project and source code repository in Azure DevOps.
-• Design a more user friendly and intuitive user interface.  This includes standardizing page layouts, CSS (font type, color other display formatting) and navigation to modern day web application standards and        practices.
-• Standardizing (styling and web formats) of static documentation.  Currently this includes PDF, Microsoft Word and Microsoft PowerPoint assets.  This may also include converting some static assets to a web page      format.
+• Create a new solution project and source code repository in Azure DevOps.  
+• Create a user-friendly and intuitive interface in line with contemporary web application standards and practices.  
+• Standardize static content such as PDFs, Microsoft Word documents, and Microsoft PowerPoint presentations.    
 • Integrating current data access layer to new user interface.
 
 </ul>
