@@ -50,3 +50,21 @@ architectures and principles we can achieve these objectives as well as many oth
   Because an abundance of data and source code currently exists, as opposed to a complete re-engineering of the application all at once, a multi-phased approach is being suggested.  This will minimize the time and    effort required to address some of the current issues and get a more viable product to market.
 </p>
 
+<H3>Phase One</H3>
+
+<p>
+  This phase begins with creating a new user interface that mimics the current applications features.  The next step will be to integrate the new interface with the existing datastore.  The final step in this phase   is to deploy the new application to an Azure environment.  The current code base and resources will remain in place as is, except for issue mitigation, until Phase 1 is complete.  Phase 1 is considered complete     when, the new solution is operating in an Azure environment without issue and Customers are unaware of which environment they have been directed to. Here are some of the actions that will take place in Phase 1.
+
+<ul>
+
+• Create a new solution project and source code repository in Azure DevOps.
+• Design a more user friendly and intuitive user interface.  This includes standardizing page layouts, CSS (font type, color other display formatting) and navigation to modern day web application standards and        practices.
+• Standardizing (styling and web formats) of static documentation.  Currently this includes PDF, Microsoft Word and Microsoft PowerPoint assets.  This may also include converting some static assets to a web page      format.
+• Integrating current data access layer to new user interface.
+
+</ul>
+
+</p>
+
+
+
