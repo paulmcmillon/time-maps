@@ -7,7 +7,7 @@
 
   <ul>
     
-    • Modern Application Architecture    
+    • Modernize Application Architecture    
     • Application Resiliency    
     • Application Performance/Scalability
     • Data and Application Security
@@ -29,5 +29,24 @@ architectures and principles (watch video) we can achieve these objectives as we
 </p>
 
 <p>
-  Softeknology, Inc. will create a cloud-based source code repository for the current code base and conduct a comprehensive review of the user interface to document any current issues with the application.  Either    Azure DevOps or GitHub will be used for these purposes.  This will achieve the following goals:
+  Softeknology, Inc. will create a cloud-based source code repository for the current code base and conduct a comprehensive review of the user interface to document any current issues with the application.  Using     Azure DevOps and GitHub will achieve the following goals:
+
+  <ul>
+
+    • Ensure ongoing customer and application support.
+    • Provide a stable application to customers.
+    • Provide a secure source code repository and version control accessible from anywhere with internet access.
+    • A repsoitory for documenting and backlogging any current bugs.
+    • A management tool for mitigating current bugs and reporting progress of the upgrade plan.
+
+  </ul>
+
+  A separate project will be set up for the upgrade project to keep new source code and project backlog items separate from the existing code base.
 </p>
+
+<H3>Upgrade Plan</H3>
+
+<p>
+  Since an abundance of data and source code currently exists, as opposed to a complete re-engineering of the application all at once, a two-phased approach is being suggested.  This will minimize the time and        effort required to address some of the current issues and get a more viable product to market.
+</p>
+
