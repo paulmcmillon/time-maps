@@ -19,14 +19,13 @@
   </ul>
 
 Implementing  [Cloud-Native](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/definition) and [Microservice](https://learn.microsoft.com/en-us/azure/architecture/microservices/) 
-architectures and principles (watch video) we can achieve these objectives as well as many others.  Adopting Microsoft Azure, C#, .NET Core, ASP.NET Core and Blazor also help address many of these concerns.
+architectures and principles we can achieve these objectives as well as many others.  Adopting Microsoft Azure, C#, .NET Core, ASP.NET Core and Blazor also help address many of these concerns.
 </p>
 
 <H3>Support Plan</H3>
 
 <p>
-  Currently the application is being supported via email request.  There are no maintenance or bug issues being addressed.  Softeknology, Inc will assume ongoing responsibility supporting email requests as well as 
-  any other client/customer concerns either by email or directly by phone.  Softeknology, Inc. will assume responsibility of addressing any current application bugs.
+  The application is Currently supported via email request.  Maintenance and application issues are being neglected.  Softeknology, Inc proposes to assume the ongoing responsibility of supporting email requests as    well as any other client/customer concerns either by email or directly by phone.  Softeknology, Inc. will also assume responsibility for addressing any current application issues.
 </p>
 
 <p>
@@ -35,19 +34,19 @@ architectures and principles (watch video) we can achieve these objectives as we
   <ul>
 
     • Ensure ongoing customer and application support.
-    • Provide a stable application to customers.
-    • Provide a secure source code repository and version control accessible from anywhere with internet access.
-    • A repsoitory for documenting and backlogging any current bugs.
-    • A management tool for mitigating current bugs and reporting progress of the upgrade plan.
+    • Deliver a stable application to customers.
+    • Provide a secure source code repository accessible from anywhere with internet access.
+    • Furnish a repsoitory for documenting and backlogging any current application issues.
+    • Serve as a management tool for mitigating and reporting current application issues.
 
   </ul>
 
-  A separate project will be set up for the upgrade project to keep new source code and project backlog items separate from the existing code base.
+  Utilizing these same tools, a separate project will be set up for the upgrade project to keep new source code and project backlog items separate from the existing code base.
 </p>
 
 <H3>Upgrade Plan</H3>
 
 <p>
-  Since an abundance of data and source code currently exists, as opposed to a complete re-engineering of the application all at once, a two-phased approach is being suggested.  This will minimize the time and        effort required to address some of the current issues and get a more viable product to market.
+  Because an abundance of data and source code currently exists, as opposed to a complete re-engineering of the application all at once, a multi-phased approach is being suggested.  This will minimize the time and    effort required to address some of the current issues and get a more viable product to market.
 </p>
 
