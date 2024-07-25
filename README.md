@@ -1,4 +1,4 @@
-# TIMEMAPS - Online Personal Financial Literacy Software
+# TimeMaps - Online Personal Financial Literacy Software
 
 <H3>Upgrade and Support Plan Overview</H3>
 
