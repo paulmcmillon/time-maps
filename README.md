@@ -3,17 +3,18 @@
 <H3>Support and Upgrade Roadmap Overview</H3>
 
 <p>
-  TimeMaps is due for an upgrade in the architecture, technology stack and user interface for the following reasons, among others.
+  This document outlines the proposed phases and steps to upgrade the architecture, technology stack and user interface for the following reasons, among others, and the basic solution support to be provided by        Softeknology, Inc.  Here are some of the objectives of this project.
 
   <ul>
     
-    • Modernize Application Architecture    
-    • Application Resiliency    
-    • Application Performance/Scalability
-    • Data and Application Security
-    • Source Code Maintainability
-    • Modern coding languages for future proofing application maintenance and upgrades
+    • Modernize Overall Solution    
+    • Ensure Application Resiliency    
+    • Implement Auto Scaling in Solution
+    • Enhance Data and Application Security
+    • Promote Source Code Maintainability
+    • Introduce User-Friendly Interface
     • New user-friendly interface
+    • Decrease Operational Cost
   
   </ul>
 
