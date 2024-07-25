@@ -1,6 +1,6 @@
 # TimeMaps - Online Personal Financial Literacy Software
 
-<H3>Upgrade and Support Plan Overview</H3>
+<H3>Support and Upgrade Roadmap Overview</H3>
 
 <p>
   TimeMaps is due for an upgrade in the architecture, technology stack and user interface for the following reasons, among others.
