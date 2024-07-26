@@ -9,7 +9,7 @@
     
     • Modernize Overall Solution    
     • Ensure Application Resiliency    
-    • Implement Auto Scaling in Solution
+    • Implement Auto Scaling
     • Enhance Data and Application Security
     • Promote Source Code Maintainability
     • Introduce User-Friendly Interface
