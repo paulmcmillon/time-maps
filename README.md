@@ -47,6 +47,7 @@ architectures and principles we can achieve these objectives as well as many oth
 
 <p>
   Because an abundance of data and source code currently exists, as opposed to a complete re-engineering of the application all at once, a multi-phased approach is being suggested.  This will minimize the time and    effort required to address some of the current issues and get a more viable product to market.
+  
 </p>
 
 <H3>Phase One</H3>
@@ -59,7 +60,7 @@ architectures and principles we can achieve these objectives as well as many oth
 • Create a new solution project and source code repository in Azure DevOps.  
 • Create a user-friendly and intuitive interface in line with contemporary web application standards and practices.  
 • Standardize static content such as PDFs, Microsoft Word documents, and Microsoft PowerPoint presentations.    
-• Integrating current data access layer to new user interface.
+• Integrate the current data access layer to new user interface.
 
 </ul>
 
