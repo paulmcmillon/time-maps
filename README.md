@@ -68,5 +68,26 @@ architectures and principles we can achieve these objectives as well as many oth
   </ul>
   
 </p>
+
+<h3>Phase Two</h3>
+
+<p>
+  Phase 2 revolves around upgrading the current datastore and application data access layer.  The current datastore is based on a Microsoft SQL Server database and T-SQL stored procedures with ADO middleware.  A      comprehensive review of the current table structures, indexes, column constraints and stored procedures will be conducted to identify any potential improvements or consolidation.  
+</p>
+
+<p>
+  Softeknology, Inc. is proposing implementing Azure SQL Database or Azure SQL Server Managed Instance, Microsoft Entity Framework Core as the new datastore and data access middleware layer and potentially            introducing Azure Cache  for Redis to boost overall application performance.  The following list outlines some considerations for this phase. 
+
+  <ul>
+
+    • Modern cloud-based architecture.  
+    • Significant reduction in data access code due to techniques such as the generic repsoitory pattern.  
+    • Reduction in operational cost.    
+    • Simplified unit testing.
+    • Significant reduction in datastore maintenance.    
+    
+  </ul>
+  
+</p>
   
 
