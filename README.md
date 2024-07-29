@@ -36,7 +36,7 @@ architectures and principles we can achieve these objectives as well as many oth
     • Deliver a stable application to customers.
     • Provide a secure source code repository accessible from anywhere with internet access.
     • Furnish a repsoitory for documenting and backlogging any current application issues.
-    • 	Standardization of static documentation.  Currently this includes PDF, Microsoft Word and Microsoft PowerPoint assets.
+    • Standardization of static documentation.  Currently this includes PDF, Microsoft Word and Microsoft PowerPoint assets.
 
   </ul>
 
