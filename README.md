@@ -7,14 +7,13 @@
 
   <ul>
     
-    • Modernize Overall Solution    
-    • Ensure Application Resiliency    
-    • Implement Auto Scaling
-    • Enhance Data and Application Security
-    • Promote Source Code Maintainability
-    • Introduce User-Friendly Interface
-    • New user-friendly interface
-    • Decrease Operational Cost
+    • Modernize Overall Solution  
+    • Ensure Application Resiliency  
+    • Implement Auto Scaling  
+    • Enhance Data and Application Security  
+    • Promote Source Code Maintainability  
+    • Introduce User-Friendly Interface  
+    • Decrease Operational Cost  
     
   </ul>
 
@@ -25,7 +24,7 @@ architectures and principles we can achieve these objectives as well as many oth
 <H3>Support Plan</H3>
 
 <p>
-  The application is Currently supported via email request.  Maintenance and application issues are being neglected.  Softeknology, Inc proposes to assume the ongoing responsibility of supporting email requests as    well as any other client/customer concerns either by email or directly by phone.  Softeknology, Inc. will also assume responsibility for addressing any current application issues.
+  The application is Currently supported via email request.  Maintenance and application issues are being neglected.  Softeknology, Inc. proposes to assume the ongoing responsibility of supporting email requests as    well as any other client/customer concerns either by email or directly by phone.  Softeknology, Inc. will also assume responsibility for addressing any current application issues.
 </p>
 
 <p>
@@ -37,7 +36,7 @@ architectures and principles we can achieve these objectives as well as many oth
     • Deliver a stable application to customers.
     • Provide a secure source code repository accessible from anywhere with internet access.
     • Furnish a repsoitory for documenting and backlogging any current application issues.
-    • Serve as a management tool for mitigating and reporting current application issues.
+    • 	Standardization of static documentation.  Currently this includes PDF, Microsoft Word and Microsoft PowerPoint assets.
 
   </ul>
 
