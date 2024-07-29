@@ -89,5 +89,23 @@ architectures and principles we can achieve these objectives as well as many oth
   </ul>
   
 </p>
+
+<h3>Remtech, Inc. Responsibilities</h3>
+
+<p>
+  Remtech, Inc. will provide Softeknology, Inc. access to all resources required to perform support and upgrade processes outlined in this document.  This includes, but may not be limited to the following.
+
+  <ul>
+
+    • Current Application Source Code.  
+    • Static Assets, PDF, Microsoft Word documents, Microsoft PowerPoint files  
+    • Access codes and passwords to web hosting providers and email hosting providers.    
+    • Access codes and passwords to database hosting providers
+    • Any documentation related to releasing new versions of the application to production    
+    • Any Documentation related to managing database changes and maintenance    
+    
+  </ul>
+    
+</p>
   
 
