@@ -107,5 +107,22 @@ architectures and principles we can achieve these objectives as well as many oth
   </ul>
     
 </p>
+
+<h3>Alpha Phase</h3> Optional
+
+<p>
+  This phase would begin with moving the current solution to a Microsoft Azure environment and stabilizing the current code base.  The current code base and resources will remain in place as is, except for issue     mitigation, until the Alpha Phase is complete.
+</p>
+
+<p>
+  The Alpha Phase is considered complete when, the current solution is operating in an Azure environment without issue and Customers are unaware of which environment they have been directed to. Here are some of      the actions that will take place in the Alpha Phase.
+
+  <ul>
+    
+        • Move all resources to a Microsoft Azure platform.  This includes the web application, database and static resources.    
+
+  </ul>
+  
+</p>
   
 
