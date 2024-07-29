@@ -61,7 +61,7 @@ architectures and principles we can achieve these objectives as well as many oth
   <ul>
 
     • Create a new solution project and source code repository in Azure DevOps.  
-    • Create a user-friendly and interface in line with contemporary web application standards and practices.  
+    • Create a user-friendly interface in line with contemporary web application standards and practices.  
     • Standardize static content such as PDFs, Microsoft Word documents, and Microsoft PowerPoint presentations.    
     • Integrate the current data access layer with the new user interface.
     
