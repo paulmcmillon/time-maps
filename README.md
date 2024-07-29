@@ -55,21 +55,18 @@ architectures and principles we can achieve these objectives as well as many oth
 <p>
   This phase begins with creating a new user interface that mimics the current applications features.  The next step involves integrating the new user interface with the existing datastore.  Finally, deploying the    new user interface and current datastore to an Azure environment will complete phase one.
 
-  <p>
-    Phase one is considered complete when the new solution is operating in an Azure environment without issue.  The current code base and resources will remain in place as is, except for issue mitigation to support     existing customers.  Here are some of the actions that will take place in Phase one.
+<p>
+  Phase one is considered complete when the new solution is operating in an Azure environment without issue.  The current code base and resources will remain in place as is, except for issue mitigation to support     existing customers.  Here are some of the actions that will take place in Phase one.
+
+  <ul>
+
+  • Create a new solution project and source code repository in Azure DevOps.  
+  • Create a user-friendly and interface in line with contemporary web application standards and practices.  
+  • Standardize static content such as PDFs, Microsoft Word documents, and Microsoft PowerPoint presentations.    
+  • Integrate the current data access layer with the new user interface.
     
-  </p>
+  </ul>
   
-<ul>
-
-• Create a new solution project and source code repository in Azure DevOps.  
-• Create a user-friendly and interface in line with contemporary web application standards and practices.  
-• Standardize static content such as PDFs, Microsoft Word documents, and Microsoft PowerPoint presentations.    
-• Integrate the current data access layer with the new user interface.
-
-</ul>
-
 </p>
-
-
+  
 
