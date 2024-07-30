@@ -3,7 +3,7 @@
 <H3>Support and Upgrade Roadmap Overview</H3>
 
 <p>
-  This document outlines the proposed phases and steps to upgrade the architecture, technology stack and user interface for the following reasons, among others, and the basic solution support to be provided by        Softeknology, Inc.  Here are some of the objectives of this project.
+  This document outlines the proposed phases and steps to moderize the architecture, technology stack and user interface for the following reasons, among others, and the basic solution support to be provided by        Softeknology, Inc.  Here are some of the objectives of this project.
 
   <ul>
     
