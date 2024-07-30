@@ -108,7 +108,7 @@ architectures and principles we can achieve these objectives as well as many oth
     
 </p>
 
-<h3>Alpha Phase Optional</h3>
+<h3>Alpha Phase - Optional</h3>
 
 <p>
   This phase would begin with moving the current solution to a Microsoft Azure environment and stabilizing the current code base.  The current code base and resources will remain in place as is, except for issue     mitigation, until the Alpha Phase is complete.
